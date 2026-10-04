@@ -1,3 +1,4 @@
+// Contributed by Jona Kandume
 #include <stdio.h>
 #include "employees.h"
 #include "budget.h"
